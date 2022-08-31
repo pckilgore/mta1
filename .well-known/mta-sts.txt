@@ -5,4 +5,4 @@ mx: *.warrant.email
 mx: *.messagingengine.com
 mx: *.pck.email
 mx: pck.email
-max_age: 300
+max_age: 86000
