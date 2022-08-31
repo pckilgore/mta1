@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: none
 mx: box.warrant.email
 mx: *.warrant.email
 mx: *.messagingengine.com
